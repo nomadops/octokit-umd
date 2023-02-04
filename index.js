@@ -1,1 +1,0 @@
-var octokit = require(octokit);

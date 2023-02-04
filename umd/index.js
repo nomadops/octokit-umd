@@ -1,1 +1,1 @@
-var octokit = require(octokit);
+const { Octokit } = require("@octokit/core");
